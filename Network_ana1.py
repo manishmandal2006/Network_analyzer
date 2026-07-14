@@ -1,9 +1,6 @@
 #!/usr/bin/env python3
 """
-Network Packet Analyzer - Ctrl+C Fixed Edition
-==============================================
-
-Fixed Windows Ctrl+C handling using non-blocking sockets with timeout loops.
+Network Packet Analyzer
 
 Usage:
     python analyzer_ctrlc.py --live -c 5000
